@@ -11,3 +11,4 @@ result/*
 .idea/*
 *.pyc
 *.zip
+.venv
